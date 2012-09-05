@@ -4,3 +4,6 @@
 [submodule "numbers.vim"]
 	path = numbers.vim
 	url = https://github.com/myusuf3/numbers.vim.git
+[submodule "vimerl"]
+	path = vimerl
+	url = https://github.com/jimenezrick/vimerl
