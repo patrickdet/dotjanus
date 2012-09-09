@@ -7,3 +7,9 @@
 [submodule "vimerl"]
 	path = vimerl
 	url = https://github.com/jimenezrick/vimerl
+[submodule "ghcmod-vim"]
+	path = ghcmod-vim
+	url = https://github.com/eagletmt/ghcmod-vim
+[submodule "vimproc"]
+	path = vimproc
+	url = https://github.com/Shougo/vimproc
